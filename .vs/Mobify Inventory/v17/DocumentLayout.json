@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mobify Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|d:\\mobify inventory\\assets\\scripts\\playercontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\items\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\inventory\\draggableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\draggableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\inventory\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\interactablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\interactables\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\coloronhover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coloronhover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\interactables\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactables\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|d:\\mobify inventory\\assets\\scripts\\inventory\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|D:\\Mobify Inventory\\assets\\scripts\\items\\equipmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3695133E-DFD9-7321-ABF9-22EDE338DA9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\items\\equipmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerManager.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\PlayerControllerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllerManager.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\PlayerControllerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllerManager.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAASwHEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T21:27:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\Inventory.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\Inventory.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:05:05.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DraggableItem.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\DraggableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\DraggableItem.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\DraggableItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\DraggableItem.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA3wEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:33:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\Item.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Items\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Items\\Item.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgvx8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:01:49.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EquipmentManager.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Items\\EquipmentManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\EquipmentManager.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Items\\EquipmentManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Items\\EquipmentManager.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:57:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Items\\Equipment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Items\\Equipment.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Items\\Equipment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Items\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:52:57.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventorySlot.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventorySlot.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAIAwwDoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:49:46.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\InventoryUI.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Inventory\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory\\InventoryUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:37:40.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemPickup.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Interactables\\ItemPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\ItemPickup.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Interactables\\ItemPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\ItemPickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:19:24.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColorOnHover.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\ColorOnHover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorOnHover.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\ColorOnHover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorOnHover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:42:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Interactable.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\Interactables\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactables\\Interactable.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\Interactables\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactables\\Interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:30:45.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteractableManager.cs",
+              "DocumentMoniker": "D:\\Mobify Inventory\\Assets\\Scripts\\InteractableManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableManager.cs",
+              "ToolTip": "D:\\Mobify Inventory\\Assets\\Scripts\\InteractableManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractableManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:18:07.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

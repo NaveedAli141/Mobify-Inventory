@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 905be887fd45c714da9c1562ce073d2f, type: 3}
+  m_Name: Default HandRight
+  m_EditorClassIdentifier: 
+  name: Default Hand Right
+  icon: {fileID: 21300000, guid: 148e91da4473faa4b831c0ed881e29f5, type: 3}
+  showInInventory: 1
+  Default: 1
+  equipSlot: 3
+  armorModifier: 0
+  damageModifier: 0
+  prefab: {fileID: 3296240787942284721, guid: 6b810ad1d24d5e34b94314b34bb16900, type: 3}
