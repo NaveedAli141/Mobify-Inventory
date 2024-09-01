@@ -78,7 +78,6 @@
     <Compile Include="Assets\Scripts\Stats\Stat.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\___www.unityassetcollection.com___.txt" />
     <None Include="Assets\Customizable 3D Cyberpunk Characters\Scenes\README.txt" />
   </ItemGroup>
   <ItemGroup>
